@@ -17,12 +17,12 @@
 - **权限**：您的机器人需要具备在指定频道中读取和回覆讯息的权限。
 
 ## 安装
-
-1. 使用 pip 安装所需依赖：
+1. 下載本專案
+2.. 使用 pip 安装所需依赖：
 
    ```bash
    pip install discord.py
-2.在专案目录下创建 config.txt 档案，格式如下：
+3.在专案目录下创建 config.txt 档案，格式如下：
 
     [DEFAULT]
     token = your_discord_bot_token_here
