@@ -1,6 +1,6 @@
 # Discord_-Open_computer_File
 
- [English](README.md) | [繁体中文](docs/tw/README.md) | [简体中文](docs/cn/README.md)
+ [English](Discord_Open_computer_File/README.md) | [繁体中文](docs/tw/README.md) | [简体中文](docs/cn/README.md)
 
 # Discord Bot 用于远端开启桌面 <.bat> 档案
 
