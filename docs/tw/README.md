@@ -17,12 +17,13 @@
 - **權限**：您的機器人需要具備在指定頻道中讀取和回覆訊息的權限。
 
 ## 安裝
-	
-1. 使用 pip 安裝所需依賴：
+
+1. 下載本專案	
+2. 使用 pip 安裝所需依賴：
 
    ```bash
    pip install discord.py
-2.在專案目錄下創建 config.txt 檔案，格式如下：
+3.在專案目錄下創建 config.txt 檔案，格式如下：
 
     [DEFAULT]
     token = your_discord_bot_token_here
