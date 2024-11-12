@@ -5,7 +5,7 @@
 <H1>Discord Bot for Remote open Desktop <.bat>  <br><br>
 
 
-<H3>This Discord bot allows you to remotely control specific .bat files on your computer via Discord commands in a designated channel. Initially created to enable opening a Minecraft server .bat file from a Discord channel, this bot could be useful for managing various tasks on your computer remotely.
+<H3>This Discord bot allows you to remotely control specific .bat files on your computer via Discord commands in a designated channel. Initially created to enable opening a Minecraft server .bat file from a Discord channel(Note 1), this bot could be useful for managing various tasks on your computer remotely.(<h5>((Note 1: If you want to use it to open Minecraft Server, you need to put this project and the server file (.bat and .jar) together)))
 
 <H1>Features
 <H3>Open .bat Files: Remotely start a specified .bat file on your computer.
