@@ -1,0 +1,4 @@
+[DEFAULT]
+token=#Discord-Bot-Token
+channel_ID=#Discord-channel-id
+File=#Computerfile-location(**with backslashes doubled for Windows (e.g., C:\\path\\to\\your\\file.bat).**)
