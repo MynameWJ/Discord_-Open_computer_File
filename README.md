@@ -19,13 +19,13 @@ Permissions: Your bot requires specific permissions to read and respond to messa
 
 <br><H1>Installation
 	
-<H3>Clone the repository or download the script file.
+<H3>1.Clone the repository or download the script file.
 
-Install required dependencies via pip:
+2.Install required dependencies via pip:
 
 <pre><code>pip install discord.py</code></pre>
 
-Create a config.txt file in the project directory with the following format:
+3.Create a config.txt file in the project directory with the following format:
 <pre><code>[DEFAULT]
 token = your_discord_bot_token_here
 channel_ID = your_channel_id_here
