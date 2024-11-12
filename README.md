@@ -54,7 +54,8 @@ File = C:\path\to\your\file.bat</code></pre>
 <br>stop: The bot will stop the server if it is running.
 <br>detect: The bot will tell you if the server is currently running.
 <H1>Notes
-<H3>This bot is designed for local use and assumes the computer running the bot has access to the specified .bat file. Make sure your path is correctly set in config.txt, with backslashes doubled for Windows (e.g., C:\\path\\to\\your\\file.bat).
+<H3>This bot is designed for local use and assumes the computer running the bot has access to the specified .bat file. Make sure your path is correctly set in config.txt, 
+**with backslashes doubled for Windows (e.g., C:\\path\\to\\your\\file.bat).**
 
 <H1>Disclaimer
 <H3>Use this bot responsibly, and be cautious with files and commands that it can execute remotely. Misconfiguration or misuse could allow remote access to critical functions on your computer.
