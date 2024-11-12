@@ -4,7 +4,7 @@
 
 # Discord Bot 用於遠端開啟桌面 <.bat> 檔案  
 
-這個 Discord 機器人允許您透過 Discord 頻道中的指令，遠端控制電腦上的指定 .bat 檔案。最初的用途是從 Discord 頻道中開啟 Minecraft 伺服器的 .bat 檔案，但此機器人也可用於遠端管理電腦上的其他任務。
+這個 Discord 機器人允許您透過 Discord 頻道中的指令，遠端控制電腦上的指定 .bat 檔案。最初的用途是從 Discord 頻道中開啟 Minecraft 伺服器的 .bat 檔案(註1)，但此機器人也可用於遠端管理電腦上的其他任務。<h5>((註1:如要用來開Minecraft Server 需要把此專案和伺服器檔案(.bat and .jar)放在一起))
 
 ## 功能
 - **開啟 .bat 檔案**：遠端啟動電腦上的指定 .bat 檔案。
